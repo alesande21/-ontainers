@@ -1,0 +1,6 @@
+#include "Includes/Containers/s21_list.h"
+#include "Includes/Containers/s21_map.h"
+#include "Includes/Containers/s21_queue.h"
+#include "Includes/Containers/s21_set.h"
+#include "Includes/Containers/s21_stack.h"
+#include "Includes/Containers/s21_vector.h"
